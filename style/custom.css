@@ -21,7 +21,7 @@ p {
 /** Top **/
 .top {
 	padding: 110px 0 175px;
-	background-image: url('../images/denttools2.jpg');
+	background-image: url('../images/denttools.jpg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 }
@@ -59,7 +59,7 @@ p {
 /** Opinie **/
 .testimonial {
 	padding: 100px 0;
-	background-image: url('../images/pacjent1.jpg');
+	background-image: url('../images/pacjent.jpg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 }
