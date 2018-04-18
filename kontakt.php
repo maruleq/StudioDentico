@@ -1,8 +1,8 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Studio Dentico - Stomatologia | Ortodoncja | Endodoncja | Protetyka</title>
+		<title>Studio Dentico - Stomatologia, Ortodoncja, Endodoncja, Protetyka</title>
 
 		<meta name="robots" content="index,follow"/>
 		<meta name="revisit-after" content="2 days" />
@@ -14,8 +14,6 @@
 		<link rel="stylesheet" href="style/bootstrap.min.css">
 		<link rel="stylesheet" href="style/font-awesome.min.css">
 		<link rel="stylesheet" href="style/custom.css">
-
-
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114719809-1"></script>
@@ -40,8 +38,8 @@
 				<!-- Górne menu umieszczone na pasku z podświetlonym aktualnym linkiem -->
 				<div class="collapse navbar-collapse" id="navContent">
 					<div class="navbar-nav">
-						<a href="index.php" class="nav-item nav-link active">Start</a>
-						<a href="kontakt.php" class="nav-item nav-link">Kontakt</a>
+						<a href="index.php" class="nav-item nav-link">Start</a>
+						<a href="kontakt.php" class="nav-item nav-link active">Kontakt</a>
 					</div>
 				</div>
 			</div>
@@ -55,3 +53,10 @@
 				<a href="about.php" class="btn btn-primary active text-white top-button" role="button" aria-pressed="true">O nas</a>
 			</div>
 		</div>
+
+
+<?php
+	
+	// Załadowanie stopki strony
+	require ("footer.php");
+?>
