@@ -44,5 +44,8 @@
 	<!-- Ładowanie bibliotek -->
 	<script src="js/jquery-3.2.1.slim.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>
+	<!-- Informacja o polityce prywatności -->
+	<script src="js/cookieinfo.js"></script>
+
 	</body>
 </html>
