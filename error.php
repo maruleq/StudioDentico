@@ -4,8 +4,8 @@
 ?>
 
 		<!-- Zgłoszenie błędu przy wysyłaniu wiadomości -->
-		<section class="introduction"> <!-- introduction to łasna definicja klasy -->
-			<h2 class ="text-center text-uppercase introduction-header">Wystpił problem z wysłaniem wiadomości...</h2>
+		<section class="introduction"> <!-- introduction to własna definicja klasy -->
+			<h2 class ="text-center text-uppercase text-danger introduction-header">Wystpił problem z wysłaniem wiadomości...</h2>
 		</section>
 
 	

@@ -8,7 +8,7 @@
 		<meta name="revisit-after" content="2 days" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-		<meta name="keywords" content="Studio Dentico, stomatologia, ortodoncja, endodoncja, profilaktyka, leczenie, Bełk, gabinet stomatologiczny, Czerwionka-Leszczyny, Orzesze, Palowice, Stanowice" />
+		<meta name="keywords" content="Studio Dentico, stomatolog Bełk, stomatologia Bełk, stomatolog Czerwionka-Leszczyny, stomatologia Czerwionka-Leszczyny, stomatolog Palowice, stomatologia Palowice, stomatolog Stanowice, stomatologia Stanowice, stomatologia, ortodoncja, endodoncja, profilaktyka, leczenie, Bełk, gabinet stomatologiczny, Czerwionka-Leszczyny, Orzesze, Palowice, Stanowice" />
 		<meta name="description" content="Centrum Stomatologii Estetycznej - Profesjonalna opieka, wyjątkowa amosfera sprawiają, że wizyta w Studio Dentico to znacznie więcej niż tylko odwiedzenie gabinetu stomatologicznego. Cechuje nas dbałość o jakość i indywidualne podejście do  pacjenta." />
 		
 		<link rel="stylesheet" href="style/bootstrap.min.css">
@@ -29,7 +29,6 @@
 	</head>
 
 	<body>
-
 		<!-- Pasek górnego menu -->
 		<nav class="navbar navbar-dark navbar-expand-md bg-primary">
 			<div class="container">
