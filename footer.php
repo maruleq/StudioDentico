@@ -36,16 +36,14 @@
 		<!-- Prawa autorskie na dolnym pasku stopki -->
 		<section class="text-center text-white bg-primary copyright"> <!-- copyright to własna definicja klasy -->
 			<div class="container">
-				&copy; Copyright 2018 Studio Dentico
-				<span class="mt-2 d-block copyright-designed">Designed by Marek Grabowski</span>
+				&copy; Copyright 2018 Studio Dentico | <a href="rodo.php">Polityka prywatności</a>
+				<span class="mt-2 d-block copyright-designed">Created by Marek Grabowski</span>
 			</div>
 		</section>
 		
 	<!-- Ładowanie bibliotek -->
 	<script src="js/jquery-3.2.1.slim.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>
-	<!-- Informacja o polityce prywatności -->
-	<script src="js/cookieinfo.js"></script>
 
 	</body>
 </html>
