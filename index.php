@@ -1,10 +1,22 @@
 <?php
+/**
+*********************************************************************
+**	Strona główna witryny. Projekt wykonany w Bootsrap 4
+*********************************************************************
+**
+**	1. Załadowanie nagłówka z pliku header.php
+**	2. Wyświetlenie treści strony startowej z formularzem kontaktowym
+**	3. Załadowanie stopki z pliku footer.php
+**
+*********************************************************************
+*/
+
 	// Załadowanie nagłówka strony
 	require ("header.php");
 ?>
 
 		<!-- Wprowadzenie na stronie startowej-->
-		<section class="introduction"> <!-- introduction to własna definicja klasy -->
+		<section class="introduction">
 			<h2 class="text-center text-uppercase introduction-header">Dbaj o zdrowie z profesjonalistami</h2>
 			<br/>
 			<div class="container">
@@ -35,7 +47,7 @@
 		</section>
 
 		<!-- Opinia klienta na stronie startowej -->
-		<section class="testimonial"> <!-- testimonial to własna definicja klasy -->
+		<section class="testimonial">
 			<div class="container">
 				<div class="text-center text-white testimonial-content m-auto">
 					<h2 class="text-uppercase testimonial-header">Opinia pacjenta</span></h2>
@@ -48,7 +60,7 @@
 		</section>
 
 		<!-- Formularz kontaktowy na stronie startowej -->
-		<section class="write-to-us"> <!-- write-to-us to własna definicja klasy -->
+		<section class="write-to-us">
 			<div class="container">
 				<div class="row">
 					<!-- Pierwsza kolumna - formularz -->
