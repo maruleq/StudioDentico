@@ -1,14 +1,15 @@
 <?php
+
 /**
-*********************************************************************
-**	Strona główna witryny. Projekt wykonany w Bootsrap 4
-*********************************************************************
-**
-**	1. Załadowanie nagłówka z pliku header.php
-**	2. Wyświetlenie treści strony startowej z formularzem kontaktowym
-**	3. Załadowanie stopki z pliku footer.php
-**
-*********************************************************************
+	*********************************************************************
+	**	Strona główna witryny. Projekt wykonany w Bootsrap 4
+	*********************************************************************
+	**
+	**	1. Załadowanie nagłówka z pliku header.php
+	**	2. Wyświetlenie treści strony startowej z formularzem kontaktowym
+	**	3. Załadowanie stopki z pliku footer.php
+	**
+	*********************************************************************
 */
 
 	// Załadowanie nagłówka strony

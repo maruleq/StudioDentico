@@ -1,5 +1,11 @@
 <?php
 
+/**
+	******************************************************
+	**	Przetwarzanie informacji z formularza kontaktowego
+	******************************************************
+*/
+
 // Tworzenie krótkich nazw zmiennych
 $name = $_POST['name'];
 $email = $_POST['email'];

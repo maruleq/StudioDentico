@@ -1,3 +1,19 @@
+<?php
+
+/**
+	*****************************************************************
+	**	Strona informacji kontaktowych. Projekt wykonany w Bootsrap 4
+	*****************************************************************
+	**
+	**	1. Załadowanie sekcji HEAD z kodem Google Analytics
+	**	2. Wyświetlenie menu
+	**	3. Załadowanie stopki
+	**
+	*****************************************************************
+*/
+?>
+
+
 <!DOCTYPE html>
 <html>
 	<head>

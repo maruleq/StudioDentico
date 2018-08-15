@@ -1,10 +1,23 @@
 <?php
+
+/**
+	*****************************************************************
+	**	Strona informacji o Polityce prywatności. Projekt wykonany w Bootsrap 4
+	*****************************************************************
+	**
+	**	1. Załadowanie nagłówka z pliku header.php
+	**	2. Wyświetlenie treści strony "O nas"
+	**	3. Załadowanie stopki z pliku footer.php
+	**
+	*****************************************************************
+*/
+
 	// Załadowanie nagłówka strony
 	require ("header.php");
 ?>
 
-		<!-- Potwierdzenie wysłania wiadomości -->
-		<section class="introduction"> <!-- introduction to własna definicja klasy -->
+		<!-- Treść dokumentu Polityka prywatności -->
+		<section class="introduction">
 			<h2 class="text-center text-uppercase introduction-header">Polityka prywatności</h2>
 			<div class="container introduction-about">
 				<span>

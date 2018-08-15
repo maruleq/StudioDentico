@@ -1,9 +1,23 @@
+<?php
+
+/**
+	********************************************************
+	**	Strona stopki witryny. Projekt wykonany w Bootsrap 4
+	********************************************************
+	**
+	**	1. Wyświetlanie stopki
+	**	2. Załadowanie bibliotek
+	**
+	********************************************************
+*/
+?>
+
 		<!-- Stopka -->
-		<footer class="text-white site-footer"> <!-- site-footer to własna definicja klasy -->
+		<footer class="text-white site-footer">
 			<div class="container">
 				<div class="row">
 					<!-- Pierwsza kolumna -->
-					<div class="col-md-3 footer-first-col"> <!-- footer-first-col to własna definicja klasy -->
+					<div class="col-md-3 footer-first-col">
 						<ul class="list-unstyled">
 							<li>
 								<i class="fa fa-home text-info" aria-hidden="true"></i></br>Centrum Stomatologii Estetycznej</br>ul. Palowicka 2</br>44-230 Bełk
@@ -20,7 +34,7 @@
 						</ul>
 					</div>
 					<!-- Druga kolumna jest pusta jako rezerwowa -->
-					<div class="col-md-3 footer-second-col"> <!-- footer-second-col to własna definicja klasy -->
+					<div class="col-md-3 footer-second-col">
 					
 					</div>
 					<!-- Trzecia kolumna zawiera mapkę Google-->
@@ -34,13 +48,14 @@
 		</footer>
 
 		<!-- Prawa autorskie na dolnym pasku stopki -->
-		<section class="text-center text-white bg-primary copyright"> <!-- copyright to własna definicja klasy -->
+		<section class="text-center text-white bg-primary copyright">
 			<div class="container">
 				&copy; Copyright 2018 Studio Dentico | <a href="rodo.php">Polityka prywatności</a>
 				<span class="mt-2 d-block copyright-designed">Created by Marek Grabowski</span>
 			</div>
 		</section>
 		
+
 	<!-- Ładowanie bibliotek -->
 	<script src="js/jquery-3.2.1.slim.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>

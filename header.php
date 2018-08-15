@@ -1,3 +1,19 @@
+<?php
+
+/**
+	************************************************************
+	**	Nagłówek strony startowej. Projekt wykonany w Bootsrap 4
+	************************************************************
+	**
+	**	1. Załadowanie sekcji HEAD z kodem Google Analytics
+	**	2. Wyświetlenie menu
+	**	3. Wyświetlenie treści nagłówka
+	**
+	************************************************************
+*/
+?>
+
+
 <!DOCTYPE HTML>
 <html>
 	<head>
