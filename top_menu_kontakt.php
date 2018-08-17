@@ -2,7 +2,7 @@
 
 /**
 	*****************************************************************
-	**	Górne menu strony kontakt. Projekt wykonany w Bootsrap 4
+	**	Górne menu strony "Kontakt". Projekt wykonany w Bootsrap 4
 	*****************************************************************
 	**
 	**

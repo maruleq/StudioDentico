@@ -16,15 +16,8 @@
 	require ("sekcja_head.php");
 	require ("top_menu_kontakt.php");
 	require ("header.php");
-?>
 
 
 
-
-
-<?php
-	
-	// Załadowanie stopki strony
+// 	Załadowanie stopki strony
 	include ("footer.php");
-
-?>

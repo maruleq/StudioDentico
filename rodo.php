@@ -1,9 +1,9 @@
 <?php
 
 /**
-	*****************************************************************
+	***************************************************************************
 	**	Strona informacji o Polityce prywatności. Projekt wykonany w Bootsrap 4
-	*****************************************************************
+	***************************************************************************
 	**
 	**	1. Załadowanie sekcji head z osobnego pliku
 	**	2. Załadowanie górnego menu
@@ -11,7 +11,7 @@
 	**	4. Wyświetlenie treści strony "Polityka prywatności"
 	**	5. Załadowanie stopki z pliku footer.php
 	**
-	*****************************************************************
+	***************************************************************************
 */
 
 	require ("sekcja_head.php");
@@ -48,7 +48,7 @@
 
 <?php
 
-	// Załadowanie stopki strony
+// 	Załadowanie stopki strony
 	include ("footer.php");
 
 ?>

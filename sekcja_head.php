@@ -2,7 +2,7 @@
 
 /**
 	************************************************************
-	**	Sekcja HEAD. Projekt wykonany w Bootsrap 4
+	**	Sekcja HEAD + Google analytics. Projekt wykonany w Bootsrap 4
 	************************************************************
 	**
 	**

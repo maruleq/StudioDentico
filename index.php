@@ -95,7 +95,7 @@
 
 <?php
 
-	// Załadowanie stopki strony
+// 	Załadowanie stopki strony
 	include ("footer.php");
-	
+
 ?>

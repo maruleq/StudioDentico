@@ -2,7 +2,7 @@
 
 /**
 	*****************************************************************
-	**	Górne menu strony o nas. Projekt wykonany w Bootsrap 4
+	**	Górne menu strony "O nas". Projekt wykonany w Bootsrap 4
 	*****************************************************************
 	**
 	**
