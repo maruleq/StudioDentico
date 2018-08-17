@@ -2,7 +2,7 @@
 
 /**
 	*****************************************************************
-	**	Górne menu strony kontakt. Projekt wykonany w Bootsrap 4
+	**	Górne menu strony o nas. Projekt wykonany w Bootsrap 4
 	*****************************************************************
 	**
 	**
@@ -22,7 +22,8 @@
 				<div class="collapse navbar-collapse" id="navContent">
 					<div class="navbar-nav">
 						<a href="index.php" class="nav-item nav-link">Start</a>
-						<a href="kontakt.php" class="nav-item nav-link active">Kontakt</a>
+						<a href="about.php" class="nav-item nav-link active">O nas</a>
+						<a href="kontakt.php" class="nav-item nav-link">Kontakt</a>
 					</div>
 				</div>
 			</div>

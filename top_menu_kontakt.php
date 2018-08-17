@@ -22,6 +22,7 @@
 				<div class="collapse navbar-collapse" id="navContent">
 					<div class="navbar-nav">
 						<a href="index.php" class="nav-item nav-link">Start</a>
+						<a href="about.php" class="nav-item nav-link">O nas</a>
 						<a href="kontakt.php" class="nav-item nav-link active">Kontakt</a>
 					</div>
 				</div>

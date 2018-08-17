@@ -15,7 +15,7 @@
 */
 
 	require ("sekcja_head.php");
-	require ("top_menu.php");
+	require ("top_menu_about.php");
 	require ("header.php");
 ?>
 
@@ -31,5 +31,5 @@
 
 	// Załadowanie stopki strony
 	include ("footer.php");
-	
+
 ?>
