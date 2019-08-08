@@ -154,7 +154,7 @@ p {
 /** Mapa Google (responsywna) **/
 .google-maps {
 position: relative;
-padding-bottom: 45%; // Tutaj regulujemy wysokość
+padding-bottom: 45%; /** Tutaj regulujemy wysokość **/
 height: 0;
 overflow: hidden;
 }
