@@ -2,7 +2,7 @@
 
 /**
 	*****************************************************************
-	**	Górne menu strony startowej. Projekt wykonany w Bootsrap 4
+	**	Górne menu strony "Cennik". Projekt wykonany w Bootsrap 4
 	*****************************************************************
 	**
 	**
@@ -18,12 +18,12 @@
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navContent">
 					<span class="navbar-toggler-icon"></span>
 				</button>
-				
+				<!-- Górne menu umieszczone na pasku z podświetlonym aktualnym linkiem -->
 				<div class="collapse navbar-collapse" id="navContent">
 					<div class="navbar-nav">
-						<a href="index.php" class="nav-item nav-link active">Start</a>
+						<a href="index.php" class="nav-item nav-link">Start</a>
 						<a href="about.php" class="nav-item nav-link">O nas</a>
-						<a href="cennik.php" class="nav-item nav-link">Cennik</a>
+						<a href="cennik.php" class="nav-item nav-link active">Cennik</a>
 						<a href="kontakt.php" class="nav-item nav-link">Kontakt</a>
 					</div>
 				</div>
