@@ -20,7 +20,8 @@
 						<div class="col-md-3 footer-first-col">
 							<ul class="list-unstyled">
 								<li>
-									<i class="fa fa-home text-info" aria-hidden="true"></i></br>Centrum Stomatologii Estetycznej</br>ul. Palowicka 2</br>44-230 Bełk
+									<i class="fa fa-home text-info" aria-hidden="true"></i></br>Centrum Stomatologii Estetycznej</br>ul. Wyzwolenia 99
+									</br>(Obok sklepu "Aldi")</br>44-237 Stanowice
 								</li>
 								<li>
 									<i class="fa fa-phone text-info" aria-hidden="true"></i>+48 730 638 318
@@ -40,7 +41,7 @@
 						<!-- Trzecia kolumna zawiera mapkę Google-->
 						<div class="col-md-6">
 							<div class="google-maps">
-								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2557.683968895397!2d18.707170315905834!3d50.129635418309704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47114aeff5b1b5f5%3A0x566653461bdcf79a!2sPalowicka+2%2C+44-237+Be%C5%82k!5e0!3m2!1spl!2spl!4v1518465629213" width="600" height="300" frameborder="0" style="border:0;" allowfullscreen></iframe>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1278.6028084143134!2d18.66916623209617!3d50.13858519601486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47114a47a4a355c7%3A0xdb70c00a547731c1!2sWyzwolenia+99%2C+44-238+Stanowice!5e0!3m2!1spl!2spl!4v1537731002171" width="700" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>

@@ -23,6 +23,7 @@
 					<div class="navbar-nav">
 						<a href="index.php" class="nav-item nav-link">Start</a>
 						<a href="about.php" class="nav-item nav-link active">O nas</a>
+						<a href="cennik.php" class="nav-item nav-link">Cennik</a>
 						<a href="kontakt.php" class="nav-item nav-link">Kontakt</a>
 					</div>
 				</div>

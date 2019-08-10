@@ -76,7 +76,7 @@ p {
 .testimonial-header {
 	margin-bottom: 1.75rem;
 	font-size: 3rem;
-	font-wight: 700;
+	font-weight: 700;
 }
 
 .testimonial-text {
@@ -154,7 +154,7 @@ p {
 /** Mapa Google (responsywna) **/
 .google-maps {
 position: relative;
-padding-bottom: 45%; /** Tutaj regulujemy wysokość **/
+padding-bottom: 45%; // Tutaj regulujemy wysokość
 height: 0;
 overflow: hidden;
 }
